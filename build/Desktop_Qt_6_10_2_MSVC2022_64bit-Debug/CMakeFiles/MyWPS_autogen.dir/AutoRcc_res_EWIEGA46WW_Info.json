@@ -1,0 +1,35 @@
+{
+	"BUILD_DIR" : "D:/Users/Qt_project/Qt_Rock_project/WPS/MyWPS/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/MyWPS_autogen",
+	"CMAKE_BINARY_DIR" : "D:/Users/Qt_project/Qt_Rock_project/WPS/MyWPS/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/Users/Qt_project/Qt_Rock_project/WPS/MyWPS/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/Users/Qt_project/Qt_Rock_project/WPS/MyWPS",
+	"CMAKE_SOURCE_DIR" : "D:/Users/Qt_project/Qt_Rock_project/WPS/MyWPS",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "D:/Users/Qt_project/Qt_Rock_project/WPS/MyWPS/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/MyWPS_autogen/include",
+	"INPUTS" : 
+	[
+		"D:/Users/Qt_project/Qt_Rock_project/WPS/MyWPS/Image/butterfly1.png",
+		"D:/Users/Qt_project/Qt_Rock_project/WPS/MyWPS/Image/butterfly.png",
+		"D:/Users/Qt_project/Qt_Rock_project/WPS/MyWPS/Image/sunny.png",
+		"D:/Users/Qt_project/Qt_Rock_project/WPS/MyWPS/Image/down.png",
+		"D:/Users/Qt_project/Qt_Rock_project/WPS/MyWPS/Image/Frame.jpg",
+		"D:/Users/Qt_project/Qt_Rock_project/WPS/MyWPS/Image/mario.gif",
+		"D:/Users/Qt_project/Qt_Rock_project/WPS/MyWPS/Image/Luffy.png",
+		"D:/Users/Qt_project/Qt_Rock_project/WPS/MyWPS/Image/LuffyQ.png",
+		"D:/Users/Qt_project/Qt_Rock_project/WPS/MyWPS/Image/Sunny.jpg",
+		"D:/Users/Qt_project/Qt_Rock_project/WPS/MyWPS/Image/up.png",
+		"D:/Users/Qt_project/Qt_Rock_project/WPS/MyWPS/Image/OnePiece.png"
+	],
+	"LOCK_FILE" : "D:/Users/Qt_project/Qt_Rock_project/WPS/MyWPS/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/CMakeFiles/MyWPS_autogen.dir/AutoRcc_res_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "res" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_res.cpp",
+	"RCC_EXECUTABLE" : "D:/Qt/6.10.2/msvc2022_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/Users/Qt_project/Qt_Rock_project/WPS/MyWPS/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/CMakeFiles/MyWPS_autogen.dir/AutoRcc_res_EWIEGA46WW_Used.txt",
+	"SOURCE" : "D:/Users/Qt_project/Qt_Rock_project/WPS/MyWPS/res.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

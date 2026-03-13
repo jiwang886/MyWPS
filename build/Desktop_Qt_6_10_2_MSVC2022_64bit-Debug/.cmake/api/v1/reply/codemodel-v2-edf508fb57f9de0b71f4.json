@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-927679b9624c1d750424.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MyWPS",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MyWPS::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MyWPS-Debug-20dd3e44f55d1d3d693b.json",
+					"name" : "MyWPS",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MyWPS_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MyWPS_autogen-Debug-8bf0b99ac00c87bb59b4.json",
+					"name" : "MyWPS_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MyWPS_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MyWPS_autogen_timestamp_deps-Debug-c06874d1e0df923e016e.json",
+					"name" : "MyWPS_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Users/Qt_project/Qt_Rock_project/WPS/MyWPS/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug",
+		"source" : "D:/Users/Qt_project/Qt_Rock_project/WPS/MyWPS"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
